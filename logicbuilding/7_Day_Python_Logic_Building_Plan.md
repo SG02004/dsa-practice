@@ -1,5 +1,5 @@
 # 🐍 Master Your Logic Building in 7 Days (Python Edition)
-*Based on the "Master Your Logic Building (Before Starting DSA)" sheet by CodeWithNishchal*
+
 
 **How to use this:** Each day has a theme, a target question count, and a Python tip. Write each solution as its own small `.py` file or function — don't overthink structure, just get the logic working. Aim for correctness first, clean code second.
 
@@ -396,4 +396,4 @@
 - If a day spilled over: that's normal — better to actually understand each problem than rush the checklist.
 - Struggled mostly on recursion (Day 3) or nested loops (Day 2, Level 4)? Those two topics are worth an extra revision day before moving on.
 
-*Original question sheet by CodeWithNishchal — Instagram: @codewithnishchal | YouTube: @CodeWithNishchal*
+
